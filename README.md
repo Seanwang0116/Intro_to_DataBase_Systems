@@ -1,14 +1,5 @@
-# Introduction to Database Systems - Final Project
 
-**Course: 2023 Fall Introduction to Database Systems**
-
-**Instructor: Prof. Yi-Ju Tseng**
-
-This repository contains the final project for the Introduction to Database Systems course. The project involves designing and implementing a functional NBA statistics query system using a relational database.
-
----
-
-## Project Overview:  NBA Statistics System
+# NBA Statistics System
 
 The goal of this project is to build a robust system that allows users to interact with professional basketball data through structured queries. It focuses on database schema design, data integrity, and cloud integration.
 
